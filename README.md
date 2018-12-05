@@ -12,7 +12,8 @@ So fraction operations are not supported.
 Anyways you can upgrade the functionalities of the application as you wish.
 
 
-When running the application, 
+When running the application,
+----------------------------
   First you need to run the "CalcServer.java" class in according to start the server.
   And then run the "CalcClient.java" class to begin.
 
