@@ -15,6 +15,7 @@ Anyways you can upgrade the functionalities of the application as you wish.
 When running the application,
 ----------------------------
   First you need to run the "CalcServer.java" class in according to start the server.
+  
   And then run the "CalcClient.java" class to begin.
 
 All operations are running on the command line.
